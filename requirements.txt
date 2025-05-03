@@ -1,0 +1,6 @@
+requests
+pandas
+notebook
+dbt-core
+snowflake-connector-python
+minio
